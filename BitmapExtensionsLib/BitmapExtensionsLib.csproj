@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="RGBLib, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>D:\Dev\ShowARTags\packages\RGBLib_Chad_Faragher.0.1.0\lib\netstandard2.0\RGBLib.dll</HintPath>
+      <HintPath>packages\RGBLib_Chad_Faragher.0.1.0\lib\netstandard2.0\RGBLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,9 +45,6 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="VectorMath, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\Dev\XArrangement\packages\VectorMath_Chad_Faragher.0.1.0\lib\netstandard2.0\VectorMath.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BitmapExtensions.cs" />

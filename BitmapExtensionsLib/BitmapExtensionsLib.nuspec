@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BitmapExtensionsLib</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Chad Faragher</authors>
+    <owners>Chad Faragher</owners>
+    <projectUrl>https://github.com/wyckster/BitmapExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bitmap Extensions</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>bitmap</tags>
+  </metadata>
+</package>
