@@ -1,16 +1,24 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>BitmapExtensionsLib</id>
-    <version>$version$</version>
-    <title>$title$</title>
+    <id>BitmapExtensionsLib_Chad_Faragher</id>
+    <version>0.1.0</version>
+    <title>BitmapExtensionsLib</title>
     <authors>Chad Faragher</authors>
     <owners>Chad Faragher</owners>
-    <projectUrl>https://github.com/wyckster/BitmapExtensions</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Bitmap Extensions</description>
+    <license type="file">LICENSE.txt</license>
+    <projectUrl>https://github.com/wyckster/BitmapExtensionsLib</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Bitmap Extensions Library</description>
     <releaseNotes>Initial Release</releaseNotes>
-    <copyright>Copyright 2020</copyright>
-    <tags>bitmap</tags>
+    <copyright>Copyright (c) 2020 Chad Faragher</copyright>
+    <repository type="git" url="https://github.com/wyckster/BitmapExtensionsLib" />
+    <tags>Bitmap</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
   </metadata>
+  <files>
+    <file src="LICENSE.txt" target="" />
+  </files>
 </package>

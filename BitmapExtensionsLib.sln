@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapExtensions", "BitmapExtensions.csproj", "{4F237AC5-F182-4761-98D1-499A48142CC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapExtensionsLib", "BitmapExtensionsLib\BitmapExtensionsLib.csproj", "{4F237AC5-F182-4761-98D1-499A48142CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapExtensionsExample", "BitmapExtensionsExample\BitmapExtensionsExample.csproj", "{0BBF5EAF-9E4B-491F-81AA-F3148B9756EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4F237AC5-F182-4761-98D1-499A48142CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F237AC5-F182-4761-98D1-499A48142CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F237AC5-F182-4761-98D1-499A48142CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBF5EAF-9E4B-491F-81AA-F3148B9756EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBF5EAF-9E4B-491F-81AA-F3148B9756EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBF5EAF-9E4B-491F-81AA-F3148B9756EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBF5EAF-9E4B-491F-81AA-F3148B9756EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
