@@ -1,2 +1,2 @@
-# BitmapExtensions
-BitmapExtensions
+# BitmapExtensionsLib
+BitmapExtensionsLib
